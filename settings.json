@@ -3,7 +3,7 @@
     // Editor
     "editor.wordWrap": "on",
     "editor.fontFamily": "Source Code Pro",
-    "editor.acceptSuggestionOnEnter": "on",  // Use Tab instead
+    "editor.acceptSuggestionOnEnter": "on",  
     "editor.fontSize": 16, 
     "editor.formatOnSave": true,  // pip installed auto pep8
     "editor.hover.enabled": true,
